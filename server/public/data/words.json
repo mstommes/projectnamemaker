@@ -1,0 +1,52 @@
+{
+  "object1": {
+    "adj1": "Big",
+    "adj2": "Hairy",
+    "noun": "Project"
+  },
+  "object2": {
+    "adj1": "Extremely",
+    "adj2": "Funky",
+    "noun": "App"
+  },
+  "object3": {
+    "adj1": "Totally",
+    "adj2": "Dumb",
+    "noun": "Code Block"
+  },
+  "object4": {
+    "adj1": "Uber",
+    "adj2": "Boring",
+    "noun": "Lecture"
+  },
+  "object5": {
+    "adj1": "Dizzyingly",
+    "adj2": "Obnoxious",
+    "noun": "Array"
+  },
+  "object6": {
+    "adj1": "Nutty",
+    "adj2": "Mouth-Dropping",
+    "noun": "Object"
+  },
+  "object7": {
+    "adj1": "Utterly",
+    "adj2": "Antiquated",
+    "noun": "Build"
+  },
+  "object8": {
+    "adj1": "Ridiculously",
+    "adj2": "Endemic",
+    "noun": "Program"
+  },
+  "object9": {
+    "adj1": "Viciously",
+    "adj2": "Hubristic",
+    "noun": "jQuery"
+  },
+  "object10": {
+    "adj1": "Awesomist",
+    "adj2": "Insidious",
+    "noun": "Monitor"
+  }
+}
